@@ -1,0 +1,21 @@
+{
+  "name": "geekmatch",
+  "version": "1.0.0",
+  "description": "tinder for geeky people",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "expressjs"
+  ],
+  "author": "Ketan Chopade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
